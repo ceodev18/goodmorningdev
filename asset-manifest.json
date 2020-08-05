@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goodmorningdev/static/css/main.9386bf47.chunk.css",
+    "main.js": "/goodmorningdev/static/js/main.640fadb3.chunk.js",
+    "main.js.map": "/goodmorningdev/static/js/main.640fadb3.chunk.js.map",
+    "runtime-main.js": "/goodmorningdev/static/js/runtime-main.19df0267.js",
+    "runtime-main.js.map": "/goodmorningdev/static/js/runtime-main.19df0267.js.map",
+    "static/js/2.3a5faa7b.chunk.js": "/goodmorningdev/static/js/2.3a5faa7b.chunk.js",
+    "static/js/2.3a5faa7b.chunk.js.map": "/goodmorningdev/static/js/2.3a5faa7b.chunk.js.map",
+    "index.html": "/goodmorningdev/index.html",
+    "precache-manifest.962129a102e7155dd0a5200041df7f97.js": "/goodmorningdev/precache-manifest.962129a102e7155dd0a5200041df7f97.js",
+    "service-worker.js": "/goodmorningdev/service-worker.js",
+    "static/css/main.9386bf47.chunk.css.map": "/goodmorningdev/static/css/main.9386bf47.chunk.css.map",
+    "static/js/2.3a5faa7b.chunk.js.LICENSE.txt": "/goodmorningdev/static/js/2.3a5faa7b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/goodmorningdev/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19df0267.js",
+    "static/js/2.3a5faa7b.chunk.js",
+    "static/css/main.9386bf47.chunk.css",
+    "static/js/main.640fadb3.chunk.js"
+  ]
+}
